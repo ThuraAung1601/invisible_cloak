@@ -10,7 +10,7 @@ Program run တာနဲ့ background ကို ရိုက်ထားပါ�
 
 လိုအပ်တဲ့ requirements ​တွေကို requirements.txt မှာ ထည့်​ပေးထားပါတယ်။
 
-<script>pip install -r requirements.txt</script> နဲ့ ​လိုအပ်ချက်​တွေကို ဒေါင်းနိုင်ပါတယ်။
+<code>pip install -r requirements.txt</code> နဲ့ ​လိုအပ်ချက်​တွေကို ဒေါင်းနိုင်ပါတယ်။
 
 Credit to Original developer
 သူများ​ရေးထားတာကို နည်းနည်းပြင်ထားတယ်
